@@ -4,19 +4,19 @@
     "url": "https://getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/getanygpt.com.ico",
     "slug": "any-gpt",
-    "status": "down",
-    "uptime": "67.94%",
-    "uptimeDay": "67.94%",
-    "uptimeWeek": "67.94%",
-    "uptimeMonth": "67.94%",
-    "uptimeYear": "67.94%",
-    "time": 343,
-    "timeDay": 343,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "58.37%",
+    "uptimeDay": "58.37%",
+    "uptimeWeek": "58.37%",
+    "uptimeMonth": "58.37%",
+    "uptimeYear": "58.37%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-09-12": 119
+      "2024-09-12": 180
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.getanygpt.com.ico",
     "slug": "any-gpt-api",
-    "status": "down",
-    "uptime": "81.57%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "81.57%",
-    "uptimeYear": "81.57%",
-    "time": 361,
-    "timeDay": 361,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "status": "up",
+    "uptime": "70.02%",
+    "uptimeDay": "70.02%",
+    "uptimeWeek": "70.02%",
+    "uptimeMonth": "70.02%",
+    "uptimeYear": "70.02%",
+    "time": 368,
+    "timeDay": 368,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-09-12": 68
+      "2024-09-12": 129
     }
   },
   {
