@@ -25,7 +25,7 @@
     "url": "https://api.getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.getanygpt.com.ico",
     "slug": "any-gpt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.56%",
@@ -37,6 +37,7 @@
     "timeMonth": 1325,
     "timeYear": 1325,
     "dailyMinutesDown": {
+      "2024-10-09": 0,
       "2024-10-08": 25,
       "2024-10-04": 19,
       "2024-09-12": 129
