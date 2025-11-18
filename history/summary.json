@@ -4,18 +4,20 @@
     "url": "https://getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/getanygpt.com.ico",
     "slug": "any-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 340,
-    "timeWeek": 332,
-    "timeMonth": 280,
-    "timeYear": 335,
-    "dailyMinutesDown": {}
+    "time": 436,
+    "timeDay": 207,
+    "timeWeek": 300,
+    "timeMonth": 273,
+    "timeYear": 334,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "AnyGPT API",
