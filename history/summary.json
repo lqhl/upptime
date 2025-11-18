@@ -26,17 +26,17 @@
     "slug": "any-gpt-api",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "89.41%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.82%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
-    "time": 314,
+    "time": 315,
     "timeDay": 127,
     "timeWeek": 195,
     "timeMonth": 198,
-    "timeYear": 199,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-11-18": 152
+      "2025-11-18": 161
     }
   },
   {
