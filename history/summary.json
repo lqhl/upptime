@@ -4,19 +4,19 @@
     "url": "https://getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/getanygpt.com.ico",
     "slug": "any-gpt",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.96%",
     "time": 436,
-    "timeDay": 207,
-    "timeWeek": 300,
-    "timeMonth": 273,
+    "timeDay": 263,
+    "timeWeek": 308,
+    "timeMonth": 276,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-11-18": 32
+      "2025-11-18": 184
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.getanygpt.com.ico",
     "slug": "any-gpt-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.97%",
     "time": 315,
-    "timeDay": 91,
-    "timeWeek": 193,
-    "timeMonth": 198,
-    "timeYear": 199,
+    "timeDay": 134,
+    "timeWeek": 204,
+    "timeMonth": 201,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 152
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://lqhl.me",
     "icon": "https://icons.duckduckgo.com/ip3/lqhl.me.ico",
     "slug": "lqhl-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "88.42%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.97%",
     "time": 257,
-    "timeDay": 200,
-    "timeWeek": 224,
-    "timeMonth": 268,
+    "timeDay": 204,
+    "timeWeek": 222,
+    "timeMonth": 266,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-11-18": 14
+      "2025-11-18": 167
     }
   }
 ]
