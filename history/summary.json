@@ -4,19 +4,19 @@
     "url": "https://getanygpt.com",
     "icon": "https://icons.duckduckgo.com/ip3/getanygpt.com.ico",
     "slug": "any-gpt",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "87.16%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
     "time": 435,
-    "timeDay": 217,
-    "timeWeek": 285,
-    "timeMonth": 271,
+    "timeDay": 242,
+    "timeWeek": 290,
+    "timeMonth": 273,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-11-18": 185
+      "2025-11-18": 205
     }
   },
   {
