@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
-    "time": 438,
-    "timeDay": 167,
-    "timeWeek": 829,
-    "timeMonth": 378,
+    "time": 437,
+    "timeDay": 126,
+    "timeWeek": 796,
+    "timeMonth": 373,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-11-18": 205
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
-    "time": 308,
-    "timeDay": 154,
-    "timeWeek": 147,
-    "timeMonth": 182,
-    "timeYear": 198,
+    "time": 310,
+    "timeDay": 1500,
+    "timeWeek": 323,
+    "timeMonth": 216,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2025-11-18": 152
     }
@@ -46,17 +46,16 @@
     "slug": "lqhl-s-blog",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 256,
-    "timeDay": 184,
-    "timeWeek": 238,
-    "timeMonth": 240,
+    "timeDay": 258,
+    "timeWeek": 254,
+    "timeMonth": 239,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-12-04": 12,
       "2025-11-18": 167
     }
   }
