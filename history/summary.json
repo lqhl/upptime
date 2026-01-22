@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/getanygpt.com.ico",
     "slug": "any-gpt",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 376,
-    "timeDay": 279,
+    "timeDay": 260,
     "timeWeek": 229,
-    "timeMonth": 238,
+    "timeMonth": 237,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2026-01-21": 11,
       "2025-11-18": 205
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
-    "timeDay": 323,
-    "timeWeek": 138,
-    "timeMonth": 139,
+    "timeDay": 256,
+    "timeWeek": 163,
+    "timeMonth": 137,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2025-11-18": 152
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 256,
-    "timeDay": 160,
-    "timeWeek": 196,
-    "timeMonth": 247,
+    "timeDay": 170,
+    "timeWeek": 200,
+    "timeMonth": 241,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-18": 167
