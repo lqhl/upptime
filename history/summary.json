@@ -47,9 +47,9 @@
     "url": "https://lqhl.me",
     "icon": "https://icons.duckduckgo.com/ip3/lqhl.me.ico",
     "slug": "lqhl-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -59,6 +59,7 @@
     "timeMonth": 193,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-13": 17,
       "2026-02-10": 16,
       "2025-11-18": 167
