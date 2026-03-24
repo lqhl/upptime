@@ -3,10 +3,6 @@ owner: lqhl # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: AnyGPT
-    url: https://getanygpt.com
-  - name: AnyGPT API
-    url: https://api.getanygpt.com
   - name: lqhl's blog
     url: https://lqhl.me
 
