@@ -41,16 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.lqhl.me.ico",
     "slug": "qin-liu-s-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.36%",
+    "uptimeDay": "2.36%",
+    "uptimeWeek": "2.36%",
+    "uptimeMonth": "2.36%",
+    "uptimeYear": "2.36%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-24": 0
+    }
   }
 ]
