@@ -7,8 +7,6 @@ sites:
     url: https://lqhl.me
   - name: Awesome System Papers Wiki
     url: https://papers.lqhl.me/
-  - name: "Qin Liu's Blog"
-    url: https://blog.lqhl.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
